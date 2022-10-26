@@ -1,11 +1,8 @@
-<template>
-
-</template>
+<template></template>
 
 <script>
-
 export default defineComponent({
-  name: "Pesquisar",
+  name: "Produtos",
   data: () => {
     return {
       produtos: [
