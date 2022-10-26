@@ -7,7 +7,7 @@ import { defineComponent } from "vue";
 import infoVue from "./Perfil/info.vue";
 
 export default defineComponent({
-  name: "Meu Perfil",
+  name: "MeuPerfil",
   components: {
     infoVue,
   },

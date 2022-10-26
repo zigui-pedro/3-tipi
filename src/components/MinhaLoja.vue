@@ -1,12 +1,16 @@
 <template>
-  <h1>Minha Loja</h1>
+  <pesquisar />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import pesquisar from "./Loja/pesquisar.vue";
 
 export default defineComponent({
-  name: "Minha Loja",
+  name: "MinhaLoja",
+  components: {
+    pesquisar,
+  },
 });
 </script>
 

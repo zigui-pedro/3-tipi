@@ -6,7 +6,7 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "Minha Rede",
+  name: "MinhaRede",
 });
 </script>
 
